@@ -12,3 +12,7 @@ In this analysis we will test the varibles for the housing price and see how dif
 
 ## Data:
 This data is publicly available open-source data. It was downloaded from https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download 
+
+
+## Tableau link:
+https://public.tableau.com/app/profile/junchao.sheng/viz/HouseSaleInKingCounty/HouseSaleInKingCounty?publish=yes
